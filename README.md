@@ -11,6 +11,12 @@ Hope you enjoy it =)
 
 #project configuration
 
+featueres to add:
+- [X] show metrics of coverage and code smell (percentage)
+- [x] use config file to set order and which metric should be used
+- [ ] show specific metrics of code smell and security (specifc percentage)
+- [ ] show messages after percentage report
+- [ ] print with color depending of "warning level"
 This project uses a .conf file to get variables to run.
 
 ````
