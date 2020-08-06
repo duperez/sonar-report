@@ -17,6 +17,7 @@ featueres to add:
 - [ ] show specific metrics of code smell and security (specifc percentage)
 - [ ] show messages after percentage report
 - [ ] print with color depending of "warning level"
+- [ ] save report in file
 This project uses a .conf file to get variables to run.
 
 ````
